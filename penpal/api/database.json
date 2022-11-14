@@ -1,0 +1,78 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Anthony Bourdain",
+      "email": "tony@bourdain.com"
+    },
+    {
+      "id": 2,
+      "name": "Jesus Christ",
+      "email": "jesus@christ.com"
+    },
+    {
+      "id": 3,
+      "name": "Sam Harris",
+      "email": "samharris@nihilist.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Friendly"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Congratulations"
+    },
+    {
+      "id": 5,
+      "name": "Condolences"
+    }
+  ],
+  "letters": [
+    {
+      "id": 1,
+      "authorId": 3,
+      "recepientId": 2,
+      "body": "Smelling too many farts",
+      "topicId": 5
+    },
+    {
+      "id": 2,
+      "authorId": 3,
+      "recepientId": 3,
+      "body": "Could there be a dog named Jesus?",
+      "topicId": 2
+    },
+    {
+      "id": 3,
+      "authorId": 1,
+      "recepientId": 3,
+      "body": "Don't shit on my pancakes",
+      "topicId": 2
+    },
+    {
+      "authorId": "3",
+      "recepientId": "3",
+      "body": "TESTINGF POST",
+      "topicId": "5",
+      "id": 4
+    },
+    {
+      "authorId": 2,
+      "recepientId": 3,
+      "body": "Oh JEEEESSSSUSSSSS",
+      "topicId": 5,
+      "id": 5
+    }
+  ]
+}

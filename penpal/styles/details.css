@@ -1,0 +1,42 @@
+.authorList {
+ display: flex;
+ flex-direction: column;
+
+
+}
+
+#authors {
+    
+}
+
+#letterBox {
+    width: 100%;
+  padding: 150px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.topics {
+    display: flex;
+    flex-direction: column;
+}
+
+#topicsList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.letter {
+    display: flex;
+    flex-direction: column;
+}
+
+.sentletters {
+    width: 400px;
+    height: 150px;
+    padding: 50px;
+    border: 1px solid rgb(66, 82, 224);
+    background-color: rgb(160, 183, 236);
+}
